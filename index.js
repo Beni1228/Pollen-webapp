@@ -2,18 +2,18 @@
 
 var lol = 2;
 
-var ampferl = 3;
+var hasell = 3;
 
 
 
-if(ampferl === 3){
-    document.getElementById('Ampfer').id = 'anzeige';
+if(hasell === 3){
+    document.getElementById('hasel').id = 'anzeige';
 }
-if(ampferl === 1){
-    document.getElementById('Ampfer').id = 'none';
+if(hasell === 1){
+    document.getElementById('hasel').id = 'none';
 }
-if(ampferl === 2){
-    document.getElementById('Ampfer').id = 'anzeige1';
+if(hasell === 2){
+    document.getElementById('hasel').id = 'anzeige1';
             document.getElementById('mehr').id = 'none';
 }
 
@@ -35,20 +35,89 @@ if(gräßerl === 2){
 
 
 
-var pappell = 1;
+var beifussl = 1;
 
 
 
-if(pappell === 3){
-    document.getElementById('Pappel').id = 'anzeige';
+if(beifussl === 3){
+    document.getElementById('beifuss').id = 'anzeige';
 }
-if(pappell === 1){
-    document.getElementById('Pappel').id = 'none';
+if(beifussl === 1){
+    document.getElementById('beifuss').id = 'none';
 }
-if(pappell === 2){
-    document.getElementById('Pappel').id = 'anzeige1';
+if(beifussl === 2){
+    document.getElementById('beifuss').id = 'anzeige1';
 }
 
+var roggenl = 1;
+
+
+
+if(roggenl === 3){
+    document.getElementById('roggen').id = 'anzeige';
+}
+if(roggenl === 1){
+    document.getElementById('roggen').id = 'none';
+}
+if(roggenl === 2){
+    document.getElementById('roggen').id = 'anzeige1';
+}
+
+var birkel = 1;
+
+
+
+if(birkel === 3){
+    document.getElementById('birke').id = 'anzeige';
+}
+if(birkel === 1){
+    document.getElementById('birke').id = 'none';
+}
+if(birkel === 2){
+    document.getElementById('birke').id = 'anzeige1';
+}
+
+var ambrosial = 1;
+
+
+
+if(ambrosial === 3){
+    document.getElementById('ambrosia').id = 'anzeige';
+}
+if(ambrosial === 1){
+    document.getElementById('ambrosia').id = 'none';
+}
+if(ambrosial === 2){
+    document.getElementById('ambrosia').id = 'anzeige1';
+}
+
+var erlel = 1;
+
+
+
+if(erlel === 3){
+    document.getElementById('erle').id = 'anzeige';
+}
+if(erlel === 1){
+    document.getElementById('erle').id = 'none';
+}
+if(erlel === 2){
+    document.getElementById('erle').id = 'anzeige1';
+}
+
+var eschel = 1;
+
+
+
+if(eschel === 3){
+    document.getElementById('esche').id = 'anzeige';
+}
+if(eschel === 1){
+    document.getElementById('esche').id = 'none';
+}
+if(eschel === 2){
+    document.getElementById('esche').id = 'anzeige1';
+}
 
 
 
