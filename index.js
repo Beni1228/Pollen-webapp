@@ -3,7 +3,7 @@
 fetchData();
 function fetchData() {
 
-    fetch('https://opendata.dwd.de/climate_environment/health/alerts/s31fg.json');
+    fetch('http://cors-anywhere.herokuapp.com/https://opendata.dwd.de/climate_environment/health/alerts/s31fg.json');
 }
 fetchData();
 
