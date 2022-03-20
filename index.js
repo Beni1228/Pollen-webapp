@@ -1,3 +1,7 @@
+
+
+var lol = 2;
+
 var ampferl = 3;
 
 
@@ -10,6 +14,7 @@ if(ampferl === 1){
 }
 if(ampferl === 2){
     document.getElementById('Ampfer').id = 'anzeige1';
+            document.getElementById('mehr').id = 'none';
 }
 
 
@@ -43,3 +48,11 @@ if(pappell === 1){
 if(pappell === 2){
     document.getElementById('Pappel').id = 'anzeige1';
 }
+
+
+
+
+
+function mehranzeigen(){
+      document.getElementById('mehr').innerHTML = "";
+};

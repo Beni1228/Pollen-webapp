@@ -115,9 +115,7 @@ body{
     color: white;
 }
 
-#lol{
-    color: red;
-}
+
 
 @keyframes up1{
     0%{
@@ -168,4 +166,90 @@ body{
     margin-left: 50vw;
     transform: translate(-50%,0%);
     border-radius: 20px;
+}
+.hintergrund3{
+    height: 10vw;
+    width: 80vw;
+    position: absolute;
+    background-color: #808080;
+    display: flex;
+    margin: left;
+    margin-top: 60vw;
+    margin-left: 50vw;
+    transform: translate(-50%,0%);
+    border-radius: 20px;
+}
+.hintergrund4{
+    height: 10vw;
+    width: 80vw;
+    position: absolute;
+    background-color: #808080;
+    display: flex;
+    margin: left;
+    margin-top: 72vw;
+    margin-left: 50vw;
+    transform: translate(-50%,0%);
+    border-radius: 20px;
+}
+.hintergrund5{
+    height: 10vw;
+    width: 80vw;
+    position: absolute;
+    background-color: #808080;
+    display: flex;
+    margin: left;
+    margin-top: 84vw;
+    margin-left: 50vw;
+    transform: translate(-50%,0%);
+    border-radius: 20px;
+}
+.hintergrund6{
+    height: 10vw;
+    width: 80vw;
+    position: absolute;
+    background-color: #808080;
+    display: flex;
+    margin: left;
+    margin-top: 96vw;
+    margin-left: 50vw;
+    transform: translate(-50%,0%);
+    border-radius: 20px;
+}
+.hintergrund7{
+    height: 10vw;
+    width: 80vw;
+    position: absolute;
+    background-color: #808080;
+    display: flex;
+    margin: left;
+    margin-top: 108vw;
+    margin-left: 50vw;
+    transform: translate(-50%,0%);
+    border-radius: 20px;
+}
+
+#display{
+
+}
+#mehr{
+      position: absolute;
+  display: flex;
+  margin: left;
+
+
+      font-size: 3vw;
+      font-family: 'Poppins', sans-serif;
+      color: white;
+}
+
+#mehr1{
+  position: absolute;
+display: flex;
+margin: left;
+width: 100vw;
+margin-left: 11vw;
+  margin-top: 120vw;
+  font-size: 3vw;
+  font-family: 'Poppins', sans-serif;
+  color: white;
 }
