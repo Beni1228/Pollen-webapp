@@ -3,6 +3,13 @@
 var lol = 2;
 
 var hasell = 3;
+var gräßerl = 1;
+var beifussl = 3;
+var roggenl = 2;
+var birkel = 1;
+var ambrosial = 2;
+var erlel = 2;
+var eschel = 3;
 
 
 
@@ -18,7 +25,7 @@ if(hasell === 2){
 }
 
 
-var gräßerl = 2;
+
 
 
 
@@ -35,7 +42,7 @@ if(gräßerl === 2){
 
 
 
-var beifussl = 2;
+
 
 
 
@@ -49,7 +56,7 @@ if(beifussl === 2){
     document.getElementById('beifuss').id = 'anzeige1';
 }
 
-var roggenl = 2;
+
 
 
 
@@ -63,7 +70,7 @@ if(roggenl === 2){
     document.getElementById('roggen').id = 'anzeige1';
 }
 
-var birkel = 2;
+
 
 
 
@@ -77,7 +84,7 @@ if(birkel === 2){
     document.getElementById('birke').id = 'anzeige1';
 }
 
-var ambrosial = 2;
+
 
 
 
@@ -91,7 +98,7 @@ if(ambrosial === 2){
     document.getElementById('ambrosia').id = 'anzeige1';
 }
 
-var erlel = 2;
+
 
 
 
@@ -105,7 +112,7 @@ if(erlel === 2){
     document.getElementById('erle').id = 'anzeige1';
 }
 
-var eschel = 2;
+
 
 
 
