@@ -234,13 +234,17 @@ body{
 .wenigera{
   display: flex;
   position: absolute;
-  font-size: 3vw;
+font-size: 3vw;
   color: white;
   margin-left: 11vw;
   margin-top: 120vw;
 }
 .wenigera{
-  font-size: 3vw;
+
+  font-family: 'Poppins', sans-serif;
+}
+.mehra{
+  font-family: 'Poppins', sans-serif;
 }
 #mehr .um .mehra{
   display: flex;
