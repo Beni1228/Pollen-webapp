@@ -231,25 +231,46 @@ body{
 #display{
 
 }
-#mehr{
-      position: absolute;
+.wenigera{
   display: flex;
-  margin: left;
-
-
-      font-size: 3vw;
-      font-family: 'Poppins', sans-serif;
-      color: white;
-}
-
-#mehr1{
   position: absolute;
-display: flex;
-margin: left;
-width: 100vw;
-margin-left: 11vw;
-  margin-top: 120vw;
   font-size: 3vw;
-  font-family: 'Poppins', sans-serif;
   color: white;
+  margin-left: 11vw;
+  margin-top: 120vw;
+}
+.wenigera{
+  font-size: 3vw;
+}
+#mehr .um .mehra{
+  display: flex;
+  position: absolute;
+  font-size: 3vw;
+  color: white;
+  margin-left: 11vw;
+  margin-top: 60vw;
+}
+#weniger .um .mehra{
+  display: none;
+  position: absolute;
+
+  color: white;
+  margin-left: 11vw;
+  margin-top: 60vw;
+}
+#mehr .wert{
+  display: none;
+  position: absolute;
+
+  color: white;
+  margin-left: 11vw;
+  margin-top: 60vw;
+}
+#mehr .um .wenigera{
+  display: none;
+  position: absolute;
+
+  color: white;
+  margin-left: 11vw;
+  margin-top: 60vw;
 }

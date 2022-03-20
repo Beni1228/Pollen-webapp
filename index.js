@@ -54,5 +54,8 @@ if(pappell === 2){
 
 
 function mehranzeigen(){
-      document.getElementById('mehr').innerHTML = "";
+      document.getElementById('mehr').id = 'weniger';
 };
+function wenigeranzeigen() {
+   document.getElementById('weniger').id = 'mehr';
+}
