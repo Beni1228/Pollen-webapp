@@ -1,6 +1,12 @@
 
 
-var lol = 2;
+fetchData();
+function fetchData() {
+
+    fetch('https://opendata.dwd.de/climate_environment/health/alerts/s31fg.json');
+}
+fetchData();
+
 
 var hasell = 3;
 var gräßerl = 1;
