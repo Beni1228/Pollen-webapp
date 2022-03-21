@@ -1,9 +1,8 @@
 
 
-fetchData();
 function fetchData() {
 
-    fetch('https://opendata.dwd.de/climate_environment/health/alerts/s31fg.json');
+    fetch('https://thingproxy.freeboard.io/fetch/https://reqres.in/api/users');
 }
 fetchData();
 
