@@ -10,7 +10,7 @@ async function get_pollen() {
 }
 
 get_pollen();
-lol
+
 
 var hasell = 3;
 var gräßerl = 1;
