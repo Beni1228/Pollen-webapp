@@ -1,10 +1,15 @@
 
+const pollen_url = 'https://beni1228-api.herokuapp.com/s31fg.json';
+async function get_pollen() {
+  const response = await fetch(pollen_url);
+  const data = await response.json();
+  let pollen = data.content;
 
-function fetchData() {
-
-    fetch('https://thingproxy.freeboard.io/fetch/https://opendata.dwd.de/climate_environment/health/alerts/s31fg.json');
+  console.table(pollen);
+  console.log(pollen);
 }
-fetchData();
+
+get_pollen();
 
 
 var hasell = 3;
