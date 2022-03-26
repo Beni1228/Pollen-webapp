@@ -57,24 +57,65 @@
 
 #anzeige1{
     height: 10vw;
-    width: 40vw;
+    width: 11.4vw;
     position: absolute;
-    background-color: rgb(231, 181, 44);
+    background-color: #D2FBCA;
+    display: flex;
+    z-index: 3;
+    border-radius: 20px;
+    animation: up0 1s;
+}
+
+#anzeige2{
+    height: 10vw;
+    width: 22.8vw;
+    position: absolute;
+    background-color: #FFE392;
     display: flex;
     z-index: 3;
     border-radius: 20px;
     animation: up 1s;
 }
-
-#anzeige{
+#anzeige3{
     height: 10vw;
-    width: 80vw;
+    width: 34.2vw;
     position: absolute;
-    background-color: red;
+    background-color: #FFC249;
     display: flex;
     z-index: 3;
     border-radius: 20px;
     animation: up1 1s;
+}
+#anzeige4{
+    height: 10vw;
+    width: 57vw;
+    position: absolute;
+    background-color: #FF9500;
+    display: flex;
+    z-index: 3;
+    border-radius: 20px;
+    animation: up2 1s;
+}
+#anzeige5{
+    height: 10vw;
+    width: 68.4vw;
+    position: absolute;
+    background-color: #FF1900;
+    display: flex;
+    z-index: 3;
+    border-radius: 20px;
+    animation: up3 1s;
+}
+
+#anzeige6{
+    height: 10vw;
+    width: 80vw;
+    position: absolute;
+    background-color: #D40000;
+    display: flex;
+    z-index: 3;
+    border-radius: 20px;
+    animation: up4 1s;
 }
 
 @keyframes up{
@@ -89,7 +130,7 @@
     }
     100%{
         height: 10vw;
-        width: 40vw;
+        width: 22.8vw;
         position: absolute;
 
         display: flex;
@@ -97,21 +138,67 @@
         border-radius: 20px;
     }
 }
-.aufschrift{
-    height: 10vw;
-    width: 80vw;
-    z-index: 100;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    font-size: 7vw;
-    font-family: 'Poppins', sans-serif;
-    color: white;
-}
-
-
-
 @keyframes up1{
+    0%{
+        height: 10vw;
+        width: 0vw;
+        position: absolute;
+
+        display: flex;
+        z-index: 3;
+        border-radius: 20px;
+    }
+    100%{
+        height: 10vw;
+        width: 34.2;
+        position: absolute;
+
+        display: flex;
+        z-index: 3;
+        border-radius: 20px;
+    }
+}
+@keyframes up2{
+    0%{
+        height: 10vw;
+        width: 0vw;
+        position: absolute;
+
+        display: flex;
+        z-index: 3;
+        border-radius: 20px;
+    }
+    100%{
+        height: 10vw;
+        width: 57vw;
+        position: absolute;
+
+        display: flex;
+        z-index: 3;
+        border-radius: 20px;
+    }
+}
+@keyframes up3{
+    0%{
+        height: 10vw;
+        width: 0vw;
+        position: absolute;
+
+        display: flex;
+        z-index: 3;
+        border-radius: 20px;
+    }
+    100%{
+        height: 10vw;
+        width: 68.4vw;
+        position: absolute;
+
+        display: flex;
+        z-index: 3;
+        border-radius: 20px;
+    }
+}
+@keyframes up4{
     0%{
         height: 10vw;
         width: 0vw;
@@ -131,6 +218,41 @@
         border-radius: 20px;
     }
 }
+@keyframes up0{
+    0%{
+        height: 10vw;
+        width: 0vw;
+        position: absolute;
+
+        display: flex;
+        z-index: 3;
+        border-radius: 20px;
+    }
+    100%{
+        height: 10vw;
+        width: 11.4vw;
+        position: absolute;
+
+        display: flex;
+        z-index: 3;
+        border-radius: 20px;
+    }
+}
+
+.aufschrift{
+    height: 10vw;
+    width: 80vw;
+    z-index: 100;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 7vw;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+
+
 #none{
   display: none;
 }
