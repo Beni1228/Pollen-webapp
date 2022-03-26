@@ -26,6 +26,7 @@ xhttp.onreadystatechange = function() {
       console.log("Erle: " + erlea)
       console.log("_________________________________________________________")
       console.log(pollen)
+      console.log("_________________________________________________________")
 
       var hasell = 6;
       var gräßerl = 6;
@@ -134,135 +135,156 @@ xhttp.onreadystatechange = function() {
 
       if (beifussa === "0") {
         var beifussl = 1;
-        console.log("beifussl Anzeige: " + beifussl)
+        console.log("Beifuss Anzeige: " + beifussl)
       }
       if (beifussa === "0-1") {
         var beifussl = 2;
-        console.log("beifussl Anzeige: " + beifussl)
+        console.log("Beifuss Anzeige: " + beifussl)
       }
       if (beifussa === "1") {
         var beifussl = 3;
-        console.log("beifussl Anzeige: " + beifussl)
+        console.log("Beifuss Anzeige: " + beifussl)
       }
       if (beifussa === "1-2") {
         var beifussl = 4;
-        console.log("beifussl Anzeige: " + beifussl)
+        console.log("Beifuss Anzeige: " + beifussl)
       }
       if (beifussa === "2") {
         var beifussl = 5;
-        console.log("beifussl Anzeige: " + beifussl)
+        console.log("Beifuss Anzeige: " + beifussl)
       }
       if (beifussa === "2-3") {
         var beifussl = 6;
-        console.log("beifussl Anzeige: " + beifussl)
+        console.log("Beifuss Anzeige: " + beifussl)
       }
       if (beifussa === "3") {
         var beifussl = 7;
-        console.log("beifussl Anzeige: " + beifussl)
+        console.log("Beifuss Anzeige: " + beifussl)
       }
 
 
 
       if (birkea === "0") {
         var birkel = 1;
-        console.log("beifussl Anzeige: " + birkel)
+        console.log("Birke Anzeige: " + birkel)
       }
       if (birkea === "0-1") {
         var birkel = 2;
-        console.log("beifussl Anzeige: " + birkel)
+        console.log("Birke Anzeige: " + birkel)
       }
       if (birkea === "1") {
         var birkel = 3;
-        console.log("beifussl Anzeige: " + birkel)
+        console.log("Birke Anzeige: " + birkel)
       }
       if (birkea === "1-2") {
         var birkel = 4;
-        console.log("beifussl Anzeige: " + birkel)
+        console.log("Birke Anzeige: " + birkel)
       }
       if (birkea === "2") {
         var birkel = 5;
-        console.log("beifussl Anzeige: " + birkel)
+        console.log("Birke Anzeige: " + birkel)
       }
       if (birkea === "2-3") {
         var birkel = 6;
-        console.log("beifussl Anzeige: " + birkel)
+        console.log("Birke Anzeige: " + birkel)
       }
       if (birkea === "3") {
         var birkel = 7;
-        console.log("beifussl Anzeige: " + birkel)
+        console.log("Birke Anzeige: " + birkel)
       }
 
 
 
       if (greasera === "0") {
-      console.log("lol")
+        var gräßerl = 1;
+        console.log("Gräßer Anzeige: " + gräßerl)
       }
       if (greasera === "0-1") {
-      console.log("lol")
+        var gräßerl = 2;
+        console.log("Gräßer Anzeige: " + gräßerl)
       }
       if (greasera === "1") {
-      console.log("lol")
+        var gräßerl = 3;
+        console.log("Gräßer Anzeige: " + gräßerl)
       }
       if (greasera === "1-2") {
-      console.log("lol")
+        var gräßerl = 4;
+        console.log("Gräßer Anzeige: " + gräßerl)
       }
       if (greasera === "2") {
-      console.log("lol")
+        var gräßerl = 5;
+        console.log("Gräßer Anzeige: " + gräßerl)
       }
       if (greasera === "2-3") {
-      console.log("lol")
+        var gräßerl = 6;
+        console.log("Gräßer Anzeige: " + gräßerl)
       }
       if (greasera === "3") {
-      console.log("lol")
+        var gräßerl = 7;
+        console.log("Gräßer Anzeige: " + gräßerl)
       }
 
 
 
 
       if (roggena === "0") {
-      console.log("lol")
+        var roggenl = 1;
+        console.log("Roggen Anzeige: " + roggenl)
       }
       if (roggena === "0-1") {
-      console.log("lol")
+        var roggenl = 2;
+        console.log("Roggen Anzeige: " + roggenl)
       }
       if (roggena === "1") {
-      console.log("lol")
+        var roggenl = 3;
+        console.log("Roggen Anzeige: " + roggenl)
       }
       if (roggena === "1-2") {
-      console.log("lol")
+        var roggenl = 4;
+        console.log("Roggen Anzeige: " + roggenl)
       }
       if (roggena === "2") {
-      console.log("lol")
+        var roggenl = 5;
+        console.log("Roggen Anzeige: " + roggenl)
       }
       if (roggena === "2-3") {
-      console.log("lol")
+        var roggenl = 6;
+        console.log("Roggen Anzeige: " + roggenl)
       }
       if (roggena === "3") {
-      console.log("lol")
+        var roggenl = 7;
+        console.log("Roggen Anzeige: " + roggenl)
       }
 
 
 
       if (erlea === "0") {
-      console.log("lol")
+        var erlel = 1;
+        console.log("Erle Anzeige: " + erlel)
       }
       if (erlea === "0-1") {
-      console.log("lol")
+        var erlel = 2;
+        console.log("Erle Anzeige: " + erlel)
       }
       if (erlea === "1") {
-      console.log("lol")
+        var erlel = 3;
+        console.log("Erle Anzeige: " + erlel)
       }
       if (erlea === "1-2") {
-      console.log("lol")
+        var erlel = 4;
+        console.log("Erle Anzeige: " + erlel)
       }
       if (erlea === "2") {
-      console.log("lol")
+        var erlel = 5;
+        console.log("Erle Anzeige: " + erlel)
       }
       if (erlea === "2-3") {
-      console.log("lol")
+        var erlel = 6;
+        console.log("Erle Anzeige: " + erlel)
       }
-      if (erlea === "3") {
-      console.log("lol")
+            if (erlea === "3")
+      var erlel = 7;
+      console.log("Erle Anzeige: " + erlel)
       }
 
 
@@ -478,7 +500,7 @@ xhttp.onreadystatechange = function() {
 
 
 
-    }
+
 };
 xhttp.open("GET", "https://beni1228-api.herokuapp.com/s31fg.json", true);
 xhttp.send();
