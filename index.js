@@ -1,16 +1,17 @@
 
+
 const pollen_url = 'https://beni1228-api.herokuapp.com/s31fg.json';
 async function get_pollen() {
   const response = await fetch(pollen_url);
   const data = await response.json();
-  let pollen = data.content;
-
-  console.table(pollen);
+  const pollen = data.content[10];
   console.log(pollen);
+  const srt = JSON.stringify(data, ["Pollen"]);
+  const srt2 = JSON.stringify(srt, ["Hasel"]);
+  console.log(srt2)
 }
 
 get_pollen();
-
 
 var hasell = 3;
 var gräßerl = 1;
