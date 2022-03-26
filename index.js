@@ -38,7 +38,7 @@ xhttp.onreadystatechange = function() {
 
 
       if (hasela === "0") {
-      var hasel = 1;
+      var hasell = 1;
       console.log("Hasel Anzeige: " + hasell)
       }
       if (hasela === "0-1") {
@@ -46,23 +46,23 @@ xhttp.onreadystatechange = function() {
         console.log("Hasel Anzeige: " + hasell)
       }
       if (hasela === "1") {
-        var hasel = 3;
+        var hasell = 3;
         console.log("Hasel Anzeige: " + hasell)
       }
       if (hasela === "1-2") {
-        var hasel = 4;
+        var hasell = 4;
         console.log("Hasel Anzeige: " + hasell)
       }
       if (hasela === "2") {
-        var hasel = 5;
+        var hasell = 5;
         console.log("Hasel Anzeige: " + hasell)
       }
       if (hasela === "2-3") {
-        var hasel = 6;
+        var hasell = 6;
         console.log("Hasel Anzeige: " + hasell)
       }
       if (hasela === "3") {
-        var hasel = 7;
+        var hasell = 7;
         console.log("Hasel Anzeige: " + hasell)
       }
 
@@ -70,11 +70,11 @@ xhttp.onreadystatechange = function() {
 
 
       if (ambrosiaa === "0") {
-        var hasel = 1;
+        var ambrosial = 1;
         console.log("Ambrosia Anzeige: " + ambrosial)
       }
       if (ambrosiaa === "0-1") {
-        var hasel = 2;
+        var ambrosial = 2;
         console.log("Ambrosia Anzeige: " + ambrosial)
       }
       if (ambrosiaa === "1") {
@@ -82,19 +82,19 @@ xhttp.onreadystatechange = function() {
         console.log("Ambrosia Anzeige: " + ambrosial)
       }
       if (ambrosiaa === "1-2") {
-        var hasel = 4;
+        var ambrosial = 4;
         console.log("Ambrosia Anzeige: " + ambrosial)
       }
       if (ambrosiaa === "2") {
-        var hasel = 5;
+        var ambrosial = 5;
         console.log("Ambrosia Anzeige: " + ambrosial)
       }
       if (ambrosiaa === "2-3") {
-        var hasel = 6;
+        var ambrosial = 6;
         console.log("Ambrosia Anzeige: " + ambrosial)
       }
       if (ambrosiaa === "3") {
-        var hasel = 7;
+        var ambrosial = 7;
         console.log("Ambrosia Anzeige: " + ambrosial)
       }
 
