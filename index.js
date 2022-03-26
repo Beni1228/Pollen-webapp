@@ -133,49 +133,63 @@ xhttp.onreadystatechange = function() {
 
 
       if (beifussa === "0") {
-      console.log("lol")
+        var beifussl = 1;
+        console.log("beifussl Anzeige: " + beifussl)
       }
       if (beifussa === "0-1") {
-      console.log("lol")
+        var beifussl = 2;
+        console.log("beifussl Anzeige: " + beifussl)
       }
       if (beifussa === "1") {
-      console.log("lol")
+        var beifussl = 3;
+        console.log("beifussl Anzeige: " + beifussl)
       }
       if (beifussa === "1-2") {
-      console.log("lol")
+        var beifussl = 4;
+        console.log("beifussl Anzeige: " + beifussl)
       }
       if (beifussa === "2") {
-      console.log("lol")
+        var beifussl = 5;
+        console.log("beifussl Anzeige: " + beifussl)
       }
       if (beifussa === "2-3") {
-      console.log("lol")
+        var beifussl = 6;
+        console.log("beifussl Anzeige: " + beifussl)
       }
       if (beifussa === "3") {
-      console.log("lol")
+        var beifussl = 7;
+        console.log("beifussl Anzeige: " + beifussl)
       }
 
 
 
       if (birkea === "0") {
-      console.log("lol")
+        var birkel = 1;
+        console.log("beifussl Anzeige: " + birkel)
       }
       if (birkea === "0-1") {
-      console.log("lol")
+        var birkel = 2;
+        console.log("beifussl Anzeige: " + birkel)
       }
       if (birkea === "1") {
-      console.log("lol")
+        var birkel = 3;
+        console.log("beifussl Anzeige: " + birkel)
       }
       if (birkea === "1-2") {
-      console.log("lol")
+        var birkel = 4;
+        console.log("beifussl Anzeige: " + birkel)
       }
       if (birkea === "2") {
-      console.log("lol")
+        var birkel = 5;
+        console.log("beifussl Anzeige: " + birkel)
       }
       if (birkea === "2-3") {
-      console.log("lol")
+        var birkel = 6;
+        console.log("beifussl Anzeige: " + birkel)
       }
       if (birkea === "3") {
-      console.log("lol")
+        var birkel = 7;
+        console.log("beifussl Anzeige: " + birkel)
       }
 
 
