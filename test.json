@@ -38,14 +38,14 @@
         "dayafter_to": "-1"
       },
       "Hasel": {
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1",
         "dayafter_to": "-1"
       },
       "Erle": {
         "dayafter_to": "-1",
         "tomorrow": "1",
-        "today": "1"
+        "today": "0"
       },
       "Ambrosia": {
         "today": "0",
@@ -68,7 +68,7 @@
     "region_name": "Schleswig-Holstein und Hamburg",
     "Pollen": {
       "Erle": {
-        "today": "1",
+        "today": "0",
         "tomorrow": "1",
         "dayafter_to": "-1"
       },
@@ -89,7 +89,7 @@
       },
       "Esche": {
         "dayafter_to": "-1",
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1"
       },
       "Birke": {
@@ -104,7 +104,7 @@
       },
       "Hasel": {
         "dayafter_to": "-1",
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1"
       }
     },
@@ -117,7 +117,7 @@
     "Pollen": {
       "Erle": {
         "tomorrow": "1",
-        "today": "1",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Ambrosia": {
@@ -127,12 +127,12 @@
       },
       "Roggen": {
         "dayafter_to": "-1",
-        "tomorrow": "0",
+        "tomorrow": "3",
         "today": "0"
       },
       "Beifuss": {
         "dayafter_to": "-1",
-        "tomorrow": "0",
+        "tomorrow": "3",
         "today": "0"
       },
       "Birke": {
@@ -142,12 +142,12 @@
       },
       "Esche": {
         "dayafter_to": "-1",
-        "tomorrow": "0-1",
-        "today": "0-1"
+        "tomorrow": "3",
+        "today": "0"
       },
       "Hasel": {
         "tomorrow": "0-1",
-        "today": "0-1",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Graeser": {
@@ -166,7 +166,7 @@
         "dayafter_to": "-1"
       },
       "Erle": {
-        "today": "1",
+        "today": "0",
         "tomorrow": "1",
         "dayafter_to": "-1"
       },
@@ -181,7 +181,7 @@
         "dayafter_to": "-1"
       },
       "Esche": {
-        "today": "1",
+        "today": "0",
         "tomorrow": "1-2",
         "dayafter_to": "-1"
       },
@@ -197,7 +197,7 @@
       },
       "Hasel": {
         "tomorrow": "0-1",
-        "today": "0-1",
+        "today": "0",
         "dayafter_to": "-1"
       }
     },
@@ -211,7 +211,7 @@
     "Pollen": {
       "Erle": {
         "dayafter_to": "-1",
-        "today": "1",
+        "today": "0",
         "tomorrow": "1"
       },
       "Ambrosia": {
@@ -235,12 +235,12 @@
         "tomorrow": "0"
       },
       "Esche": {
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1",
         "dayafter_to": "-1"
       },
       "Hasel": {
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1",
         "dayafter_to": "-1"
       },
@@ -257,7 +257,7 @@
     "Pollen": {
       "Hasel": {
         "dayafter_to": "-1",
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1"
       },
       "Graeser": {
@@ -267,7 +267,7 @@
       },
       "Esche": {
         "tomorrow": "1-2",
-        "today": "1",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Birke": {
@@ -286,7 +286,7 @@
         "dayafter_to": "-1"
       },
       "Erle": {
-        "today": "1",
+        "today": "0",
         "tomorrow": "1",
         "dayafter_to": "-1"
       },
@@ -303,7 +303,7 @@
     "Pollen": {
       "Erle": {
         "tomorrow": "1",
-        "today": "1",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Ambrosia": {
@@ -327,13 +327,13 @@
         "tomorrow": "0"
       },
       "Esche": {
-        "today": "1",
+        "today": "0",
         "tomorrow": "1-2",
         "dayafter_to": "-1"
       },
       "Hasel": {
         "dayafter_to": "-1",
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1"
       },
       "Graeser": {
@@ -358,7 +358,7 @@
       },
       "Erle": {
         "tomorrow": "1-2",
-        "today": "1-2",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Beifuss": {
@@ -388,7 +388,7 @@
       },
       "Hasel": {
         "tomorrow": "1",
-        "today": "1",
+        "today": "0",
         "dayafter_to": "-1"
       }
     }
@@ -401,7 +401,7 @@
         "today": "0"
       },
       "Esche": {
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1",
         "dayafter_to": "-1"
       },
@@ -412,7 +412,7 @@
       },
       "Hasel": {
         "tomorrow": "0-1",
-        "today": "0-1",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Ambrosia": {
@@ -423,7 +423,7 @@
       "Erle": {
         "dayafter_to": "-1",
         "tomorrow": "1",
-        "today": "1"
+        "today": "0"
       },
       "Roggen": {
         "tomorrow": "0",
@@ -445,7 +445,7 @@
     "Pollen": {
       "Esche": {
         "tomorrow": "0-1",
-        "today": "0-1",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Birke": {
@@ -454,7 +454,7 @@
         "dayafter_to": "-1"
       },
       "Hasel": {
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1",
         "dayafter_to": "-1"
       },
@@ -465,7 +465,7 @@
       },
       "Erle": {
         "dayafter_to": "-1",
-        "today": "1",
+        "today": "0",
         "tomorrow": "1"
       },
       "Ambrosia": {
@@ -492,7 +492,7 @@
       "Erle": {
         "dayafter_to": "-1",
         "tomorrow": "1-2",
-        "today": "1-2"
+        "today": "0"
       },
       "Ambrosia": {
         "dayafter_to": "-1",
@@ -525,7 +525,7 @@
         "dayafter_to": "-1"
       },
       "Hasel": {
-        "today": "1",
+        "today": "0",
         "tomorrow": "1",
         "dayafter_to": "-1"
       }
@@ -540,7 +540,7 @@
       "Esche": {
         "dayafter_to": "-1",
         "tomorrow": "1",
-        "today": "1"
+        "today": "0"
       },
       "Birke": {
         "today": "0",
@@ -553,14 +553,14 @@
         "tomorrow": "0"
       },
       "Hasel": {
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1",
         "dayafter_to": "-1"
       },
       "Erle": {
         "dayafter_to": "-1",
         "tomorrow": "1",
-        "today": "1-2"
+        "today": "0"
       },
       "Ambrosia": {
         "today": "0",
@@ -587,7 +587,7 @@
     "Pollen": {
       "Hasel": {
         "dayafter_to": "-1",
-        "today": "1",
+        "today": "0",
         "tomorrow": "1"
       },
       "Graeser": {
@@ -617,7 +617,7 @@
       },
       "Erle": {
         "dayafter_to": "-1",
-        "today": "1-2",
+        "today": "0",
         "tomorrow": "1-2"
       },
       "Ambrosia": {
@@ -633,7 +633,7 @@
     "Pollen": {
       "Esche": {
         "tomorrow": "1",
-        "today": "1",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Birke": {
@@ -643,7 +643,7 @@
       },
       "Hasel": {
         "tomorrow": "0-1",
-        "today": "0-1",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Graeser": {
@@ -658,7 +658,7 @@
       },
       "Erle": {
         "dayafter_to": "-1",
-        "today": "1-2",
+        "today": "0",
         "tomorrow": "1"
       },
       "Beifuss": {
@@ -685,7 +685,7 @@
       },
       "Erle": {
         "tomorrow": "1-2",
-        "today": "1-2",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Roggen": {
@@ -715,7 +715,7 @@
       },
       "Hasel": {
         "tomorrow": "1",
-        "today": "1",
+        "today": "0",
         "dayafter_to": "-1"
       }
     },
@@ -732,7 +732,7 @@
         "dayafter_to": "-1"
       },
       "Hasel": {
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1",
         "dayafter_to": "-1"
       },
@@ -743,7 +743,7 @@
       },
       "Esche": {
         "dayafter_to": "-1",
-        "today": "1",
+        "today": "0",
         "tomorrow": "1"
       },
       "Roggen": {
@@ -757,7 +757,7 @@
         "dayafter_to": "-1"
       },
       "Erle": {
-        "today": "1-2",
+        "today": "0",
         "tomorrow": "1",
         "dayafter_to": "-1"
       },
@@ -780,17 +780,17 @@
       "Hasel": {
         "dayafter_to": "-1",
         "tomorrow": "0-1",
-        "today": "0-1"
+        "today": "0"
       },
       "Esche": {
         "dayafter_to": "-1",
-        "today": "1",
+        "today": "0",
         "tomorrow": "1-2"
       },
       "Birke": {
         "dayafter_to": "-1",
         "tomorrow": "0-1",
-        "today": "0-1"
+        "today": "0"
       },
       "Beifuss": {
         "today": "0",
@@ -803,7 +803,7 @@
         "today": "0"
       },
       "Erle": {
-        "today": "1",
+        "today": "0",
         "tomorrow": "1",
         "dayafter_to": "-1"
       },
@@ -823,7 +823,7 @@
       "Erle": {
         "dayafter_to": "-1",
         "tomorrow": "1",
-        "today": "1"
+        "today": "0"
       },
       "Ambrosia": {
         "tomorrow": "0",
@@ -848,7 +848,7 @@
       "Esche": {
         "dayafter_to": "-1",
         "tomorrow": "1-2",
-        "today": "1"
+        "today": "0"
       },
       "Graeser": {
         "today": "0",
@@ -858,7 +858,7 @@
       "Hasel": {
         "dayafter_to": "-1",
         "tomorrow": "0-1",
-        "today": "0-1"
+        "today": "0"
       }
     },
     "region_name": "Rheinland-Pfalz und Saarland"
@@ -866,7 +866,7 @@
     "region_id": 100,
     "Pollen": {
       "Esche": {
-        "today": "1",
+        "today": "0",
         "tomorrow": "1-2",
         "dayafter_to": "-1"
       },
@@ -882,11 +882,11 @@
       },
       "Hasel": {
         "dayafter_to": "-1",
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1"
       },
       "Erle": {
-        "today": "1",
+        "today": "0",
         "tomorrow": "1",
         "dayafter_to": "-1"
       },
@@ -921,7 +921,7 @@
       },
       "Erle": {
         "tomorrow": "1-2",
-        "today": "1-2",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Beifuss": {
@@ -946,7 +946,7 @@
       },
       "Hasel": {
         "dayafter_to": "-1",
-        "today": "1",
+        "today": "0",
         "tomorrow": "1"
       },
       "Graeser": {
@@ -968,16 +968,16 @@
       },
       "Hasel": {
         "tomorrow": "0-1",
-        "today": "0-1",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Esche": {
-        "today": "1",
+        "today": "0",
         "tomorrow": "1-2",
         "dayafter_to": "-1"
       },
       "Birke": {
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1",
         "dayafter_to": "-1"
       },
@@ -993,7 +993,7 @@
       },
       "Erle": {
         "dayafter_to": "-1",
-        "today": "1",
+        "today": "0",
         "tomorrow": "1"
       },
       "Ambrosia": {
@@ -1023,11 +1023,11 @@
       },
       "Erle": {
         "tomorrow": "1",
-        "today": "1",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Hasel": {
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1",
         "dayafter_to": "-1"
       },
@@ -1039,7 +1039,7 @@
       "Esche": {
         "dayafter_to": "-1",
         "tomorrow": "1",
-        "today": "1"
+        "today": "0"
       },
       "Birke": {
         "dayafter_to": "-1",
@@ -1071,7 +1071,7 @@
       "Hasel": {
         "dayafter_to": "-1",
         "tomorrow": "1",
-        "today": "1"
+        "today": "0"
       },
       "Ambrosia": {
         "dayafter_to": "-1",
@@ -1079,7 +1079,7 @@
         "today": "0"
       },
       "Erle": {
-        "today": "1-2",
+        "today": "0",
         "tomorrow": "1-2",
         "dayafter_to": "-1"
       },
@@ -1114,7 +1114,7 @@
       },
       "Erle": {
         "tomorrow": "1-2",
-        "today": "2",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Ambrosia": {
@@ -1130,7 +1130,7 @@
       "Hasel": {
         "dayafter_to": "-1",
         "tomorrow": "0-1",
-        "today": "0-1"
+        "today": "0"
       },
       "Birke": {
         "dayafter_to": "-1",
@@ -1140,7 +1140,7 @@
       "Esche": {
         "dayafter_to": "-1",
         "tomorrow": "1",
-        "today": "1"
+        "today": "0"
       }
     },
     "region_id": 120
@@ -1149,7 +1149,7 @@
     "partregion_name": "Donauniederungen",
     "Pollen": {
       "Hasel": {
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1",
         "dayafter_to": "-1"
       },
@@ -1165,7 +1165,7 @@
       },
       "Esche": {
         "tomorrow": "1-2",
-        "today": "1",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Roggen": {
@@ -1185,7 +1185,7 @@
       },
       "Erle": {
         "dayafter_to": "-1",
-        "today": "1",
+        "today": "0",
         "tomorrow": "1"
       }
     },
@@ -1196,7 +1196,7 @@
     "Pollen": {
       "Hasel": {
         "tomorrow": "0-1",
-        "today": "0-1",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Graeser": {
@@ -1212,7 +1212,7 @@
       "Esche": {
         "dayafter_to": "-1",
         "tomorrow": "1",
-        "today": "1"
+        "today": "0"
       },
       "Roggen": {
         "dayafter_to": "-1",
@@ -1225,7 +1225,7 @@
         "dayafter_to": "-1"
       },
       "Erle": {
-        "today": "1-2",
+        "today": "0",
         "tomorrow": "1",
         "dayafter_to": "-1"
       },
@@ -1243,12 +1243,12 @@
     "partregion_name": "Mainfranken",
     "Pollen": {
       "Birke": {
-        "today": "0-1",
+        "today": "0",
         "tomorrow": "0-1",
         "dayafter_to": "-1"
       },
       "Esche": {
-        "today": "1",
+        "today": "0",
         "tomorrow": "1-2",
         "dayafter_to": "-1"
       },
@@ -1260,11 +1260,11 @@
       "Hasel": {
         "dayafter_to": "-1",
         "tomorrow": "0-1",
-        "today": "0-1"
+        "today": "0"
       },
       "Erle": {
         "tomorrow": "1",
-        "today": "1",
+        "today": "0",
         "dayafter_to": "-1"
       },
       "Ambrosia": {

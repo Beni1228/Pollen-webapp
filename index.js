@@ -5,8 +5,8 @@ var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
       var response = JSON.parse(xhttp.responseText);
-      var pollen = response.content[3]["Pollen"];
-
+      var pollen = response.content[22]["Pollen"];
+console.table(response.content);
 
       var hasela = pollen["Hasel"]["today"];
       var ambrosiaa = pollen["Ambrosia"]["today"];
