@@ -41,7 +41,7 @@
     margin-left: 13vw;
 }
 
-.hintergrund{
+#hintergrund{
     height: 10vw;
     width: 80vw;
     position: absolute;
@@ -259,7 +259,7 @@
 
 
 
-.hintergrund1{
+#hintergrund1{
     height: 10vw;
     width: 80vw;
     position: absolute;
@@ -271,7 +271,7 @@
     transform: translate(-50%,0%);
     border-radius: 20px;
 }
-.hintergrund2{
+#hintergrund2{
     height: 10vw;
     width: 80vw;
     position: absolute;
@@ -283,7 +283,7 @@
     transform: translate(-50%,0%);
     border-radius: 20px;
 }
-.hintergrund3{
+#hintergrund3{
     height: 10vw;
     width: 80vw;
     position: absolute;
@@ -295,7 +295,7 @@
     transform: translate(-50%,0%);
     border-radius: 20px;
 }
-.hintergrund4{
+#hintergrund4{
     height: 10vw;
     width: 80vw;
     position: absolute;
@@ -307,7 +307,7 @@
     transform: translate(-50%,0%);
     border-radius: 20px;
 }
-.hintergrund5{
+#hintergrund5{
     height: 10vw;
     width: 80vw;
     position: absolute;
@@ -319,7 +319,7 @@
     transform: translate(-50%,0%);
     border-radius: 20px;
 }
-.hintergrund6{
+#hintergrund6{
     height: 10vw;
     width: 80vw;
     position: absolute;
@@ -331,7 +331,7 @@
     transform: translate(-50%,0%);
     border-radius: 20px;
 }
-.hintergrund7{
+#hintergrund7{
     height: 10vw;
     width: 80vw;
     position: absolute;
@@ -347,7 +347,7 @@
 #display{
 
 }
-.wenigera{
+#wenigera{
   display: flex;
   position: absolute;
 font-size: 3vw;
@@ -355,14 +355,14 @@ font-size: 3vw;
   margin-left: 11vw;
   margin-top: 120vw;
 }
-.wenigera{
+#wenigera{
 
   font-family: 'Poppins', sans-serif;
 }
-.mehra{
+#mehra{
   font-family: 'Poppins', sans-serif;
 }
-#mehr .um .mehra{
+#mehra{
   display: flex;
   position: absolute;
   font-size: 3vw;
@@ -370,29 +370,7 @@ font-size: 3vw;
   margin-left: 11vw;
   margin-top: 60vw;
 }
-#weniger .um .mehra{
-  display: none;
-  position: absolute;
 
-
-  margin-left: 11vw;
-  margin-top: 60vw;
-}
-#mehr .wert{
-  display: none;
-  position: absolute;
-
-  margin-left: 11vw;
-  margin-top: 60vw;
-}
-#mehr .um .wenigera{
-  display: none;
-  position: absolute;
-
-
-  margin-left: 11vw;
-  margin-top: 60vw;
-}
 .back{
   height: 100px;
   width: auto;
@@ -452,4 +430,29 @@ font-size: 3vw;
   text-decoration: none;
   color: green;
   font-style: oblique;
+}
+
+#non{
+    display: none;
+}
+#non3{
+    display: none;
+}
+#non4{
+    display: none;
+}
+#non5{
+    display: none;
+}
+#non6{
+    display: none;
+}
+#non7{
+    display: none;
+}
+#nonw{
+    display: none;
+}
+#nonm{
+    display: none;
 }

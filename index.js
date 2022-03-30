@@ -1,6 +1,5 @@
 
 
-
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
@@ -291,6 +290,7 @@ console.table(response.content);
 
       if(hasell === 3){
           document.getElementById('hasel').id = 'anzeige2';
+          window.haselll = 3; 
       }
       if(hasell === 1){
           document.getElementById('hasel').id = 'none';
@@ -321,6 +321,7 @@ console.table(response.content);
       }
       if(gräßerl === 1){
           document.getElementById('Gräßer').id = 'none';
+          console.log(mw);
       }
       if(gräßerl === 2){
           document.getElementById('Gräßer').id = 'anzeige1';
@@ -498,7 +499,7 @@ console.table(response.content);
       }
 
 
-
+      window.eschell = eschel; 
 
 
 };
@@ -509,12 +510,32 @@ xhttp.send();
 
 
 
-
-
-
+function mww(){
+  window.mw = 'non';
+}
+mww();
 function mehranzeigen(){
-      document.getElementById('mehr').id = 'weniger';
+  document.getElementById('mehra').id = 'nonm';
+  document.getElementById('non3').id = 'hintergrund3';
+  document.getElementById('non4').id = 'hintergrund4';
+  document.getElementById('non5').id = 'hintergrund5';
+  document.getElementById('non6').id = 'hintergrund6';
+  document.getElementById('non7').id = 'hintergrund7';
+  document.getElementById('nonw').id = 'wenigera';
+  window.mw = 'hintergrund';
 };
 function wenigeranzeigen() {
-   document.getElementById('weniger').id = 'mehr';
+  document.getElementById('nonm').id = 'mehra';
+   document.getElementById('hintergrund3').id = 'non3';
+   document.getElementById('hintergrund4').id = 'non4';
+   document.getElementById('hintergrund5').id = 'non5';
+   document.getElementById('hintergrund6').id = 'non6';
+   document.getElementById('hintergrund7').id = 'non7';
+   document.getElementById('wenigera').id = 'nonw';
+   window.mw = 'non';
 }
+
+console.log(mw);
+
+
+console.log(haselll)
